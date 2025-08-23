@@ -7,13 +7,13 @@ Welcome to the ultimate collection of C programs – starting from the absolute 
 
 The programs are organized in a step-by-step structured manner so you can learn progressively:
 
-1️⃣ Basics – Hello World, variables, operators, loops, conditionals
-2️⃣ Functions & Arrays – User-defined functions, recursion, strings, 2D arrays
-3️⃣ Pointers & Memory – Pointers, dynamic memory allocation, structures, unions
-4️⃣ File Handling – Reading & writing files, file operations projects
-5️⃣ Data Structures – Stack, Queue, Linked List, Trees, Graphs
-6️⃣ Algorithms – Searching, Sorting, Recursion problems, Dynamic Programming
-7️⃣ Problem Sets – Mini projects & competitive coding practice
+1 Basics – Hello World, variables, operators, loops, conditionals
+2 Functions & Arrays – User-defined functions, recursion, strings, 2D arrays
+3 Pointers & Memory – Pointers, dynamic memory allocation, structures, unions
+4 File Handling – Reading & writing files, file operations projects
+5 Data Structures – Stack, Queue, Linked List, Trees, Graphs
+6 Algorithms – Searching, Sorting, Recursion problems, Dynamic Programming
+7 Problem Sets – Mini projects & competitive coding practice
 
 🎯 Goals
 
