@@ -1,26 +1,53 @@
 # Problems-Solved-with-C
 🌟 C Programming – From Zero to Hero
 
-Welcome to the ultimate collection of C programs – starting from the absolute basics and gradually moving toward advanced problem-solving and data structures. Whether you’re a beginner trying to understand loops, or an advanced learner tackling algorithms, this repo is your one-stop C learning hub.
+Welcome to my C Programming Repository, a complete collection of codes ranging from the very basics to advanced topics. This repository is built as a learning hub where I store, organize, and improve my C programming skills, while also creating a helpful reference for others exploring the language. The aim is to maintain a well-structured and compact resource that is simple, practical, and continuously growing.
 
 📂 Repository Overview
 
-The programs are organized in a step-by-step structured manner so you can learn progressively:
+Basics – Covers introductory programs such as printing output, variables, operators, loops, conditionals, and user-defined functions.
 
-1 Basics – Hello World, variables, operators, loops, conditionals
-2 Functions & Arrays – User-defined functions, recursion, strings, 2D arrays
-3 Pointers & Memory – Pointers, dynamic memory allocation, structures, unions
-4 File Handling – Reading & writing files, file operations projects
-5 Data Structures – Stack, Queue, Linked List, Trees, Graphs
-6 Algorithms – Searching, Sorting, Recursion problems, Dynamic Programming
-7 Problem Sets – Mini projects & competitive coding practice
+Intermediate – Includes arrays, pointers, strings, structures, unions, and modular programming techniques.
 
-🎯 Goals
+Advanced – Features file handling, dynamic memory allocation, data structures like linked lists, stacks, queues, and sorting algorithms.
 
-Strengthen problem-solving skills in C
+Problem Solving – A set of programs focused on logical thinking, pattern printing, mathematical problems, and DSA practice.
 
-Build a step-by-step journey from basics to advanced topics
+✨ Key Features
 
-Provide ready-to-run examples for quick learning
+A structured folder system for smooth navigation and clarity.
 
+Beginner-friendly code, written with comments to explain each step.
+
+Focus on covering core concepts that are vital for programming in C.
+
+Constant updates as I practice more advanced topics and problem sets.
+
+Useful as a quick reference for revision, interviews, or academic practice.
+
+🎯 Goals of This Repository
+
+Strengthen my own fundamentals in C programming.
+
+Document a learning journey that starts from scratch and builds toward complex problem solving.
+
+Provide an accessible reference for other learners and open-source enthusiasts.
+
+Explore the relationship of C with data structures, algorithms, and embedded systems applications.
+
+📌 Future Additions
+
+More problem-solving challenges and algorithm implementations.
+
+Expansion into advanced DSA concepts such as trees, graphs, and hashing.
+
+Mini projects developed purely in C to demonstrate real-world applications.
+
+Integration with concepts related to embedded systems and IoT projects.
+
+👨‍💻 About Me
+
+I’m Arghya Roy, a B.Tech student in Electronics and IoT with a strong interest in embedded systems, 3D printing, and hardware-software integration. I enjoy exploring problem solving, building projects, and documenting my learning journey. This repository reflects my dedication to coding in C and acts as a foundation for more advanced work in systems programming and electronics-based applications.
+
+⭐ If you find this repository useful or inspiring, please consider giving it a star to support the journey!
 🔥 Start coding in C and unlock your problem-solving superpower!
